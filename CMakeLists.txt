@@ -65,3 +65,4 @@ install(FILES
     phpStylist.php
     DESTINATION ${DATA_INSTALL_DIR}/kdevphpformatter
 )
+
