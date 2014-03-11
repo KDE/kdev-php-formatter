@@ -4,6 +4,7 @@ Exec=blubb
 Icon=text-xml
 Name=PHP Formatter
 Name[bs]=PHP Formater
+Name[ca]=Formatador de PHP
 Name[cs]=Formátovač PHP
 Name[de]=PHP-Formatierer
 Name[es]=Formateador PHP
